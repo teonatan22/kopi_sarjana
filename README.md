@@ -1,14 +1,16 @@
 # kopi_sarjana
 MOBILE PROGRAMMING PROJECT
 
+ESA UNGGUL UNIVERSITY - Informatics Engineering
+
 introduce my group members who took part in this project
 
-Febriyanti Juhaini
+-Febriyanti Juhaini
 
-Syifa Amalia
+-Syifa Amalia
 
-Teo Natan Jovanus
+-Teo Natan Jovanus
 
-Anindya Maisie Prasetyo
+-Anindya Maisie Prasetyo
 
-Shiska Riani
+-Shiska Riani
